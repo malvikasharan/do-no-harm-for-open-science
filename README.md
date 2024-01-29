@@ -16,12 +16,12 @@ This repository collects resources, data and research details including outcomes
 
 ## Preliminary Research
 
-I have recently conducted a preliminary study for applying Do No Harm in open science, a written report from which will be published soon.
-A major takeaway from the study is a simple framework that can be used by anyone in their respective context.
+A written report from preliminary research on the alignment and applicability of do no harm principle in open science will be published soon.
+A simple framework was designed to allow anyone to reflect on and apply this principle in their respective contexts, which is introduced below.
 
 ![do-no-harm-framework-Sharan](./assets/do-no-harm-framework-Sharan.png)
 
-Figure 1: Do No Harm Simple Framework for Open Science. Source: Sharan, M. (2023, September 19). Exploring 'Do No Harm' Principles in Open Research Communities. Zenodo. https://doi.org/10.5281/zenodo.8361334.
+*Figure 1: Do No Harm Simple Framework for Open Science. Source: Sharan, M. (2023, September 19). Exploring 'Do No Harm' Principles in Open Research Communities. Zenodo. https://doi.org/10.5281/zenodo.8361334.*
 
 The potential negative effects of open science practices can be assessed under four groups (outer layer in Figure 1):
 1. Stakeholders and beneficiaries, which include all actors in research communities and their rights to science.
