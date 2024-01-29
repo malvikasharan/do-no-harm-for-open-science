@@ -1,6 +1,6 @@
 # Do No Harm Simple for Open Science 
 
-*Extending the use of do no significant harm principles (from medicine and humanitarian work) to open science approaches applied in research, data science and AI across different domains and sectors.*
+*Extending the use of do no harm principle, from medicine and humanitarian work, to open science approaches, when applied in research, data science and AI across different domains and sectors.*
 
 ## About
 
